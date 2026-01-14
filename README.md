@@ -4,6 +4,13 @@ Ce dépôt présente une étude complète de classification de chiffres manuscri
 
 L’objectif est de comparer les performances, la complexité et le temps d’inférence des deux approches.
 
+
+digits : https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.html
+
+knn : https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
+
+---
+
 ## Contenu du dépôt
 
 Le dépôt contient deux notebooks Jupyter :
